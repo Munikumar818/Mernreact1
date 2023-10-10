@@ -1,6 +1,6 @@
-import logo from './logo.svg';
+
 import './App.css';
-import react from 'react';
+
 import { useState } from 'react';
 function App() {
   const[val,setVal]=useState('');
